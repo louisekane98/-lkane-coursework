@@ -1,0 +1,65 @@
+body {
+  background-color: #CCEAE3;
+}
+
+
+#col1 {
+  background-color:CCEAE3 ;
+  width:29%;
+float: left;
+ margin: 1%;
+  padding: 1%;
+
+}
+
+#col2{
+  background-color: none;
+  width:34%;
+  display: inline-block;
+  margin: 1%;
+  padding: 1%;
+
+}
+
+#col3{
+  background-color: none;
+  width:29%;
+  float: right;
+  margin: 1%;
+  padding: 1%;
+
+}
+
+footer{
+  clear: both;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #A1C9AE;
+}
+
+li {
+  float:right;
+}
+
+li a {
+display: block;
+color: CCEAE3;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+  background-color: #A1C9AE;
+}
+
+.card{
+
+  padding: 30px;
+  text-align: center;
+}

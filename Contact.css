@@ -1,0 +1,63 @@
+body {
+  background-color: #B5FFD0;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2CEABE;
+}
+
+li {
+  float:right;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.card{
+
+  padding: 15px;
+  text-align: center;
+  background-color: none;
+}
+
+#col1 {
+  background-color: #FFFFFF;
+  width:29%;
+float: left;
+ margin: 1%;
+  padding: 1%;
+
+}
+
+#col2{
+  background-color: #FFFFFF;
+  width:30%;
+  display: inline-block;
+  margin: 1%;
+  padding: 1%;
+
+}
+
+#col3{
+  background-color: #FFFFFF;
+  width: 25%;
+  display: right;
+  margin: 1%;
+  padding: 1;
+  float: right;
+}

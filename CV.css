@@ -1,0 +1,70 @@
+body {
+  background-color: #FFC4E5;
+}
+
+header{
+  border-style: inset;
+  border-width: 10px;
+  border-color: #C15385;
+}
+
+#col1 {
+  background-color: #C15385;
+  width:29%;
+float: left;
+ margin: 1%;
+  padding: 1%;
+
+}
+
+#col2{
+  background-color: #C15385;
+  width:36%;
+  display: inline-block;
+  margin: 1%;
+  padding: 1%;
+
+}
+
+#col3{
+  background-color: #C15385;
+  width:29%;
+  float: right;
+  margin: 1%;
+  padding: 1%;
+
+}
+
+footer{
+  clear: both;
+}
+
+.card{
+
+  padding: 15px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F9A4E6;
+}
+
+li {
+  float:right;
+}
+
+li a {
+display: block;
+color: #FF00C3;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+  background-color: #C15385;
+}
